@@ -1,2 +1,2 @@
 print ("Demostración de conflicto")
-print ("Rama main")
+print ("Rama alternativa")
